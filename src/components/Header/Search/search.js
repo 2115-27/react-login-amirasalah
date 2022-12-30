@@ -51,7 +51,6 @@ class Search extends Component {
     return (
       <div>
         <a href="" className='logo'>
-          <img src={logo} alt=""/>
         </a>
         <div className='search-input'>
           <input
